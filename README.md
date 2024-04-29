@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
 
 ```
-Name : Rajalakshmi R
-Reg no : 212223110037
+Name : Ramya P
+Reg no : 212223230168
 ```
 
 # Aim : 
