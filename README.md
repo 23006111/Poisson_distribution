@@ -1,9 +1,9 @@
 # Fitting Poisson  distribution
 
-~~~
-Name : Ramya P
-Reg no : 212223230168
-~~~
+
+## Name : Ramya P
+## Register number : 212223230168
+
 
 # Aim : 
 
