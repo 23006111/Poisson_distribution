@@ -1,9 +1,8 @@
 # Fitting Poisson  distribution
 
-```
+
 Name : Ramya P
 Reg no : 212223230168
-```
 
 # Aim : 
 
